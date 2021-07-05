@@ -1,5 +1,3 @@
-# entendido
-
 ## Project setup
 ```
 yarn install
